@@ -20,7 +20,7 @@ Please note that this clone website is created solely for educational purposes a
 
 To run this cloned website locally on your machine, follow these steps:
 
-1. Clone this repository to your local machine using `git clone (https://github.com/Ahmed-BEN-GHALBA/Clone-Google.git)`.
+1. Clone this repository to your local machine using `git clone [https://github.com/Ahmed-BEN-GHALBA/Clone-Google.git]`.
 2. Open the `index.html` file in your preferred web browser.
 3. Explore the functionalities and design of the Google Clone Website.
 
